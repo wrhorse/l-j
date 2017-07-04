@@ -5,6 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>lj-chap-001</module>
+        <module>lj-chap-008</module>
+        <module>lj-chap-014</module>
     </modules>
 
     <groupId>lj-think</groupId>
